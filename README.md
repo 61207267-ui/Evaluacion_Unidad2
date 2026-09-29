@@ -1,2 +1,5 @@
-# Evaluacion_Unidad2
+# Integrantes:
+
+* Chuquin Carlos Andres 
+* Terrel Sanchez Fabrisio 
 
